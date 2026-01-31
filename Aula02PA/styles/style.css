@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: #f4f6f8;
+    background-image:url(/styles/folha.jpg);
+    background-size: cover;
 }
 
 .container{
